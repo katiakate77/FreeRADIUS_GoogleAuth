@@ -1,1 +1,1 @@
-# FreeRADIUS_GoogleAuth
+# FreeRADIUS + Google Authenticator + AD (Debian 12)
